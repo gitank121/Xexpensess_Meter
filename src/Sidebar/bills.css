@@ -1,0 +1,25 @@
+.bill-content{
+    padding: 35px 0px 90px 80px;
+}
+
+.bill{
+    width: 75%;
+    padding: 20px;
+}
+
+.manage-bill{
+    display: flex;
+    flex-direction: column;
+    font-size: larger;
+    padding-top: 50px;
+}
+
+.add-bill{
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+

@@ -1,0 +1,28 @@
+/* UpcomingBills.css */
+
+.upcoming-bills-container {
+    margin-top: 20px;
+  }
+  
+  .upcoming-bills-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .paid-bill {
+    text-decoration: line-through;
+    color: grey;
+  }
+  
+  .mark-paid-button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .mark-paid-button:hover {
+    background-color: #45a049;
+  }
+  

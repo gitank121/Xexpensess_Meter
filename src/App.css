@@ -1,0 +1,24 @@
+.app {
+  /* justify-content: center; */
+  align-items: center;
+
+}
+
+.app-login{
+  background-image: url("logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 60px 0px 190px 110px;
+}
+
+.app-container {
+  display: flex;
+
+}
+
+.main-content {
+  flex: 1;
+  padding: 97px 0px 0px 42px;
+  margin-top: 95px;
+  background-color: lightgray;
+}

@@ -1,0 +1,21 @@
+
+
+.expense-content {
+  padding: 35px 0px 90px 80px;
+}
+
+
+.content {
+  width: 75%;
+  padding: 20px;
+}
+
+.budget-input {
+  margin-bottom: 1rem;
+}
+
+.remaining-budget {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}

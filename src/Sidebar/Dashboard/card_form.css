@@ -1,0 +1,56 @@
+.card-details{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cd{
+    padding: 15px;
+}
+
+.cd label{
+    font-size: larger;
+    padding: 10px;
+}
+
+.cvv{
+    font-size: larger;
+    padding:20px 10px 0px 60px ;
+}
+
+.ed{
+    font-size: larger;
+    padding: 10px 20px 0px 0px;
+}
+
+.ed label{
+    padding-right:10px ;
+}
+
+.card-details1{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 20px 200px;
+}
+
+.add-card{
+    width: 150px;
+    padding: 15px;
+    margin-left: 650px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: large;
+}
+
+.cvv label{
+    padding-right:10px ;
+}
+
+.card{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+   
